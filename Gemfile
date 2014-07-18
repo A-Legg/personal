@@ -4,6 +4,7 @@ gem "rspec"
 gem "capybara"
 gem "gschool_database_connection"
 gem "rack-flash"
+gem "activerecord"
 
 gem "rerun"
 gem "sinatra"

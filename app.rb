@@ -1,5 +1,6 @@
 require "sinatra"
 require "gschool_database_connection"
+
 # require "rack-flash"
 
 class App < Sinatra::Application
